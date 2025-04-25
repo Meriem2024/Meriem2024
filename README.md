@@ -1,7 +1,7 @@
 # 👋 Hi, nice to see you!
 
 Welcome to my GitHub profile!
-I'm Frontend Developer from Germany.
+I'm Frontend Developer from **Germany**.
 
 ## My Skills are:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -11,8 +11,7 @@ I'm Frontend Developer from Germany.
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## My latest project:
-- Angular based eCommerce-Store
+### My latest project: Angular based eCommerce-Store
 
 ## Check out my Portfolio:
 
