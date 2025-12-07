@@ -14,6 +14,7 @@ I'm Frontend Developer from **Germany**.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=swagger&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
@@ -24,6 +25,8 @@ I'm Frontend Developer from **Germany**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+
+![Whisper](https://img.shields.io/badge/Whisper.cpp-6A5ACD?style=for-the-badge&logo=ai&logoColor=white)  
 
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge&logo=codeium&logoColor=white)  
 
